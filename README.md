@@ -3,6 +3,7 @@ Hackathon
 # Assumptions:
 
 1) Scooter have 3 axis gyroscope for its balncing as shown in this figure.
+
 ![ather2](https://user-images.githubusercontent.com/45059470/152825349-a0a5c85c-f880-41b7-866b-daeeede25978.jpg)
 ![ather4](https://user-images.githubusercontent.com/45059470/152825438-2d15417c-0320-40cb-98c1-9dd7e152e045.jpg)
 
