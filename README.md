@@ -2,7 +2,7 @@
 Hackathon
 # Assumptions:
 
-1) Scooter have 3 axis gyroscope for its balncing as shown in this figure.
+1) Scooter have 3 axis gyroscope for its balancing as shown in this figure.
 
 ![ather2](https://user-images.githubusercontent.com/45059470/152825349-a0a5c85c-f880-41b7-866b-daeeede25978.jpg)
 ![ather4](https://user-images.githubusercontent.com/45059470/152825438-2d15417c-0320-40cb-98c1-9dd7e152e045.jpg)
@@ -21,7 +21,7 @@ Hackathon
 
 8) We are setting a certain value relative to threshold value, so if it falls again under that certain value, we are turning OFF the lights according to situation.
 
-9) For turning in left or right direction, we are taking combination of leaning or rotating around X-axis, and rotating around X-axis.
+9) For turning in left or right direction, we are taking combination of leaning or rotating around X-axis, and rotating around Z-axis.
 
 10) When moving move or down, due to speed breaker or pothole, we are considering rotating around Y-axis.
 
